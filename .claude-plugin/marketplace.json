@@ -1,0 +1,15 @@
+{
+  "name": "chain-navi",
+  "description": "Chain Navi: navigation and guardrails for vibe coding.",
+  "owner": {
+    "name": "ZendonLabs",
+    "email": "hello@zendonlabs.com"
+  },
+  "plugins": [
+    {
+      "name": "chain-navi",
+      "source": "./",
+      "description": "Navigation and guardrails for vibe coding: steer AI coding agents from a product Blueprint you can read."
+    }
+  ]
+}

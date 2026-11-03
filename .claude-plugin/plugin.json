@@ -1,0 +1,13 @@
+{
+  "name": "chain-navi",
+  "version": "0.1.0",
+  "description": "Navigation and guardrails for vibe coding: steer AI coding agents from a product Blueprint you can read.",
+  "author": {
+    "name": "ZendonLabs",
+    "email": "hello@zendonlabs.com"
+  },
+  "homepage": "https://github.com/zendonlabs/chain-navi",
+  "repository": "https://github.com/zendonlabs/chain-navi",
+  "license": "MIT",
+  "keywords": ["vibe-coding", "blueprint", "guardrails", "ai-agents", "code-review", "no-code"]
+}
